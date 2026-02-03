@@ -48,7 +48,7 @@ City comments may remain visible unless removed for moderation purposes or upon 
 We use reasonable technical and organizational measures to protect your information. No system is completely secure, but we take appropriate steps to safeguard your data.
 
 ## 7. Your Rights & Data Deletion
-You may request deletion of your account and associated data by contacting us at the email address below.
+You may request deletion of your account and associated data by contacting us at the email address: hello@wanderer-app.com
 Account deletion is also supported directly within the App settings.
 
 ## 8. Device Permissions
